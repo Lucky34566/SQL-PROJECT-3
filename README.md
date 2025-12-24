@@ -1,0 +1,24 @@
+## SQL JOINS AND DATE FUNCTIONS
+-- This project demonstrates the use of SQL date functions and joins using employees and attendance tables
+## CONCEPTS COVERED
+- CREATE
+- INSERT
+- SELECT
+- INNER JOIN
+- LEFT JOIN
+- COUNT
+- WHERE CLAUSE
+- ORDER BY
+- GROUP BY
+## DATE FUNCTIONS
+- DAY()
+- DATE_DIFF
+- DATE_ADD
+- DATE_SUB
+- YEAR()
+## TABLES USED
+- EMPLOYEES
+- ATTENDANCE
+## TOOLS USED
+- SQL
+- SQL ONLINE EDITOR
